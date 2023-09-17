@@ -1,0 +1,31 @@
+.footer__container {
+    background-color: black;
+    color: rgba(238, 238, 238, 0.997);
+    width: 90%;
+    margin: auto;
+    height: 250px;
+    display: flex;
+    text-align: center;
+    padding: 50px;
+}
+
+.footer__container1 {
+    flex: auto;
+
+}
+
+.footer__container2 {
+    flex: auto;
+}
+
+.footer__container3 {
+    flex: auto;
+}
+
+.footer__container4 {
+    flex: auto;
+}
+
+.footer__container>div>p {
+    padding: 10px;
+}
